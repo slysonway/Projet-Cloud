@@ -1,0 +1,9 @@
+[submodule "CloudFront"]
+	path = CloudFront
+	url = https://github.com/slysonway/CloudFront
+[submodule "CloudNode"]
+	path = CloudNode
+	url = https://github.com/slysonway/CloudNode
+[submodule "Serverless"]
+	path = Serverless
+	url = https://github.com/slysonway/Serverless
