@@ -4,6 +4,8 @@
 
 . ./push_mysql_data.sh
 
+#az login
+
 . ./deploy-function.sh
 
 . ./deploy-back.sh
